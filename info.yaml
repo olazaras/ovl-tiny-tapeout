@@ -1,5 +1,5 @@
 # Tiny Tapeout project information (Wokwi project)
-project:
+project: tinytapeout_ovl
   wokwi_id:     413921836641882113 # 413921836641882113
   title:        ""      # funny chip design
   author:       ""      # Oliver Lazaras
