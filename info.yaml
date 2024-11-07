@@ -1,12 +1,12 @@
 # Tiny Tapeout project information (Wokwi project)
-project: 
-  wokwi_id:     413921836641882113 # 413921836641882113
-  title:        "ovl abc chip"      # funny chip design
-  author:       "Oliver Lazaras"      # Oliver Lazaras
-  discord:      "losttime8240"      # losttime8240
-  description:  "displays "a" when in0 is active and "." when in1 is active"      # displays "a" when in0 is active and "." when in1 is active
+project:
+  wokwi_id:     413921836641882113       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "ovl abc chip"      # Project title
+  author:       "oliver lazaras"      # Your name
+  discord:      "losttime8240"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "displays a with in0 and . with in1"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     0       # 0
+  clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
