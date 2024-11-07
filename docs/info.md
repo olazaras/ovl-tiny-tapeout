@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+basically the idea is to have each input display corresponding letter output ex: in0 on --> "A" , in1 on --> "B", in2 on or in0 & in1 --> "C" etc... 
 
 ## How to test
 
