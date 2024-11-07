@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
-project: tinytapeout_ovl
+project: 
   wokwi_id:     413921836641882113 # 413921836641882113
-  title:        ""      # funny chip design
-  author:       ""      # Oliver Lazaras
-  discord:      ""      # losttime8240
-  description:  ""      # displays "a" when in0 is active and "." when in1 is active
+  title:        "ovl abc chip"      # funny chip design
+  author:       "Oliver Lazaras"      # Oliver Lazaras
+  discord:      "losttime8240"      # losttime8240
+  description:  "displays "a" when in0 is active and "." when in1 is active"      # displays "a" when in0 is active and "." when in1 is active
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # 0
 
@@ -15,34 +15,34 @@ project: tinytapeout_ovl
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
-  ui[5]: ""
-  ui[6]: ""
-  ui[7]: ""
+  ui[0]: "0"
+  ui[1]: "1"
+  ui[2]: "2"
+  ui[3]: "3"
+  ui[4]: "4"
+  ui[5]: "5"
+  ui[6]: "6"
+  ui[7]: "7"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "0"
+  uo[1]: "1"
+  uo[2]: "2"
+  uo[3]: "3"
+  uo[4]: "4"
+  uo[5]: "5"
+  uo[6]: "6"
+  uo[7]: "7"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "0"
+  uio[1]: "1"
+  uio[2]: "2"
+  uio[3]: "3"
+  uio[4]: "4"
+  uio[5]: "5"
+  uio[6]: "6"
+  uio[7]: "7"
 
 # Do not change!
 yaml_version: 6
